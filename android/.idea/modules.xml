@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/blog.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/blog.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1309879259/blog.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1309879259/blog.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2093508956/blog.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/2093508956/blog.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1199649984/blog.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1199649984/blog.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1826186555/blog.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1826186555/blog.react-native-safe-area-context.iml" />
+    </modules>
+  </component>
+</project>
